@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=westkitekim&show_icons=true&theme=nightowl&langs_count=6&layout=compact" /> &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=westkitekim&show_icons=true&theme=nightowl" />
+  <img src="https://github-readme-stats.vercel.app/api?username=westkitekim&show_icons=true&theme=nightowl" height="165">
 </p>
 
 
