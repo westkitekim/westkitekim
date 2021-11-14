@@ -20,6 +20,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=westkitekim&show_icons=true&theme=nightowl" height="165">
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=westkitekim&no-frame=true&column=8&theme=buddhism" />
+</p>
 
 
 
