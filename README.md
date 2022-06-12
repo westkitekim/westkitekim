@@ -1,6 +1,13 @@
 ### Hi there 👋
 
 <!--
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/61646760/168806101-35318ba2-3c26-47f0-82b7-d6851266816d.gif" alt="hi">
+  <img src="/github-metrics.svg" alt="Metrics" width="65%">
+</div>
+-->
+
+<!--
 **westkitekim/westkitekim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
