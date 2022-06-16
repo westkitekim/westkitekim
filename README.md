@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=westkitekim&no-frame=false&column=6&theme=tokyonight&margin-w=15" />
 </p>
 
+![snake gif](https://github.com/westkitekim/westkitekim/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 https://simpleicons.org/
