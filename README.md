@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ![snake gif](https://github.com/westkitekim/westkitekim/blob/output/github-contribution-grid-snake.svg)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={oidtsqq1})](https://solved.ac/{oidtsqq1})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={westkitekim})](https://solved.ac/{westkitekim})
 
 <!--
 https://simpleicons.org/
