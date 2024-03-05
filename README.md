@@ -27,11 +27,12 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=westkitekim&show_icons=true&theme=nightowl" height="165">
 </p>
 
+<!-- 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=westkitekim&no-frame=false&column=6&theme=tokyonight&margin-w=15" />
 </p>
-
 ![snake gif](https://github.com/westkitekim/westkitekim/blob/output/github-contribution-grid-snake.svg)
+-->
 
 <!--[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={westkitekim})](https://solved.ac/{westkitekim})-->
 
