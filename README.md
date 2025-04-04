@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img
     src="https://render.gitanimals.org/lines/westkitekim?pet-id=695919573815520388"
     width="1200"
-    height="300"
+    height="250"
   />
 </a>
   
