@@ -21,6 +21,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
+<p align="center">
+  <a href="https://github.com/westkitekim/gitanimals">
+    <img src="https://render.gitanimals.org/farms/westkitekim"/>
+  </a>
+</p>
+-->
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=westkitekim&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/westkitekim?pet-id=695919573815520388"
+    width="1200"
+    height="300"
+  />
+</a>
+  
+<!--
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=westkitekim&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/westkitekim"
+  width="1200"
+  height="300"
+/>
+</a>
+-->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=westkitekim&show_icons=true&theme=nightowl&langs_count=6&layout=compact" /> &nbsp;
